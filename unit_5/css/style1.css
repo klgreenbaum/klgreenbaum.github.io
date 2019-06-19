@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito|Nunito+Sans:600i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+body {
+    background-color: #B796D9;
+    border: 1px white solid;
+    padding: 20px;
+}
+
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 40px;
+    line-height: 1.5em;
+    margin: 2em;
+    padding: .8em 0;
+}
+
+li{
+    color: #FFFFFF;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 2em;
+}
+
+i, p {
+    color: #FFFFFF;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 2em;
+}
+
+p {
+    font-style: normal;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 2em;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav{
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside{
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article{
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer{
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div{
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
