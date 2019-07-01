@@ -60,7 +60,6 @@ nav{
     border: 1px black solid;
     padding: 20px;
     font-size: 1.1em;
-    float: right;
 }
 
 nav a {	
@@ -94,7 +93,7 @@ section {
     padding: 20px;
 }
 
-#left {
+#img {
     background-color: violet;
     border: 1px black solid;
     padding: 20px;
