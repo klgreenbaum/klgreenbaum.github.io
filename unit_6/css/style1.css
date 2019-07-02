@@ -93,7 +93,7 @@ section {
     padding: 20px;
 }
 
-#img {
+.picture {
     background-color: violet;
     border: 1px black solid;
     padding: 20px;
@@ -128,4 +128,9 @@ div{
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
+}
+
+.main-images {
+    width: 30%;
+    display: inline-block;
 }
