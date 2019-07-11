@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito|Nunito+Sans:600i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+body {
+    background-color: #B796D9;
+    padding: 1%;
+}
+
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 2.5em;
+    line-height: 1.5em;
+    margin: 5%;
+    padding: .8em 0;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+li{
+    color: #FFFFFF;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    margin: 3%;
+}
+
+i, p {
+    color: #FFFFFF;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    margin: 5%;
+}
+
+p {
+    font-style: normal;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: #FFFFFF;
+    font-size: 1em;
+    line-height: 1.5em;
+    margin: 5%;
+}
+
+header {
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav{
+    border: 1px black solid;
+    padding: 5%;
+    font-size: 1.1em;
+}
+
+nav a {	
+	text-decoration: none;
+	color: black;
+	margin: 2%;
+	display: inline-block;
+}
+
+aside{
+    padding: 5%;
+}
+
+article{
+    padding: 5%;
+}
+
+section {
+    color: #fff;
+    overflow: auto;
+}
+
+.picture {
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    padding: 1%;
+    float: right;   
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+footer{
+    padding: 1%;
+}
+
+div{
+    padding: 1%;
+}
+
+.main-images {
+    width: 30%;
+    display: inline-block;
+}
+
